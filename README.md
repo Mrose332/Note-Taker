@@ -14,6 +14,8 @@ This application you can create and save notes using a server called express.js.
 
 ## Installation
 
+Go to repo at https://github.com/Mrose332/Note-Taker.git then run npm install, then find the server file by running node server.js, then go to 'localhost:3001' to see it deployed.
+
 
 ## License
 Project is license under MIT
