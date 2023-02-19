@@ -21,7 +21,8 @@ Project is license under MIT
 ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Usage 
-<img src="assets/images/note-image.jpeg">
+
+<img src="develop/public/assets/images/note-image.jpeg">
 
 ## Contributing 
 
