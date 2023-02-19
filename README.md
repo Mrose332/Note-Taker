@@ -24,7 +24,7 @@ Project is license under MIT
 
 ## Usage 
 
-<img src="develop/public/assets/images/note-image.jpeg">
+<img src="Develop/public/assets/images/note-image.jpeg">
 
 ## Contributing 
 
