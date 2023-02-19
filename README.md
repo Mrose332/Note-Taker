@@ -21,7 +21,7 @@ Project is license under MIT
 ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Usage 
-<img src="assets/images/note-mage.jpeg">
+<img src="assets/images/note-image.jpeg">
 
 ## Contributing 
 
@@ -33,4 +33,4 @@ Under Installation section
 Reach me for additional questions at: mailto:mrose332@gmail.com.
 
 
-To view deployed project at: https://mrose332.github.io/Team_Profile_Generator/.
+To view deployed project at:.
